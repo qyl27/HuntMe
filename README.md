@@ -1,2 +1,2 @@
 # HuntMe
-A Forge mod with Minecraft hunter game mod.
+A Forge mod with Minecraft hunter game.
